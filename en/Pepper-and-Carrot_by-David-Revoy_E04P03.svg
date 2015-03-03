@@ -39,17 +39,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="1600"
+     inkscape:window-height="1181"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2060889"
-     inkscape:cx="1677.3874"
-     inkscape:cy="1920.7498"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:zoom="0.47669615"
+     inkscape:cx="1273.0141"
+     inkscape:cy="2409.3864"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-11-21_ep04_Moment-of-genius/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -96,8 +96,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssz" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1157.6896,916.45026 c -146.0149,-56.32003 -246.13941,-79.26523 -351.47873,44.84744 -17.73039,-8.34371 -42.76151,-47.97633 -42.76151,-47.97633 0,0 153.31565,-156.44454 394.24024,3.12889 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1157.6896,916.45026 c -50.0655,-18.99475 -100.9594,-38.14301 -154.5315,-44.09381 -38.48708,-4.37587 -78.57566,1.00958 -113.15098,19.03609 -32.73956,16.67622 -60.16415,42.09485 -83.79625,69.90516 -13.4053,-7.41069 -22.60064,-20.28714 -31.82413,-32.14019 -3.37955,-5.27569 -8.76282,-10.89773 -10.49022,-16.28006 29.16601,-26.85941 65.28605,-45.62049 103.13999,-56.91895 60.13957,-17.92686 125.48697,-13.45925 184.38699,7.03526 37.6522,12.86195 73.1405,31.52397 106.2661,53.4565 z"
        id="path4010"
        inkscape:connector-curvature="0" />
     <path
