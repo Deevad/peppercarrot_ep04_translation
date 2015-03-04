@@ -1,5 +1,5 @@
-# Pepper&Carrot translation project
-## Episode 04 : Moment-of-genius
+# Pepper&Carrot translation project 
+# Episode 04 : Moment-of-genius
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
