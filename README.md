@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project 
+# Pepper&Carrot translation project
 # Episode 04 : Moment-of-genius
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -11,11 +11,13 @@ License
 
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-## Translators and correctors : 
+## Translators and correctors :
 
 * French     : David Revoy
 
 * English    : David Revoy, Amireti
+
+* German     : Alexandra Jordan / Helmar Suschka
 
 * Japanese   : guruguru
 
@@ -31,7 +33,7 @@ License
 [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
 
-## Artworks : 
+## Artworks :
 
 * David Revoy, www.peppercarrot.com
 
