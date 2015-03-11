@@ -23,6 +23,8 @@ License
 
 * Portuguese : Frederico Batista
 
+* Spanish    : TheFaico
+
 
 ## Fonts:
 
@@ -46,4 +48,3 @@ Infos :
 - Ressources added in this project must be compatible with the CC-By license ( fonts, images, etc ). Are compatible : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL). Adding author name plus a link and license is appreciated.
 
 - Do not edit or propose a commit for the artworks in this repositories. Artworks here are low-resolution proxy files only. The real hi-res layered artworks,  *.kra files, are [available here] www.peppercarrot.com/static6/sources.
-
