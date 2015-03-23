@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 04 : Moment-of-genius
+# Episode 04 : Stroke of genius
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
@@ -15,7 +15,7 @@ License
 
 * Dutch      : Willem Sonke
 
-* English    : David Revoy, Amireti
+* English    : David Revoy, Amireti, Alex Gryson
 
 * French     : David Revoy
 

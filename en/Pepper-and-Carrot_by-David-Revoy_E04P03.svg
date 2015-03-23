@@ -39,17 +39,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="1181"
+     inkscape:window-width="1920"
+     inkscape:window-height="1041"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.47669615"
-     inkscape:cx="1273.0141"
-     inkscape:cy="2409.3864"
-     inkscape:window-x="1920"
+     inkscape:cx="1130.3656"
+     inkscape:cy="1024.8567"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-11-21_ep04_Moment-of-genius/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -227,7 +227,7 @@
        xml:space="preserve"
        id="flowRoot2987-0-8-0-9"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(0.99729969,0,0,0.93985282,1204.1228,2202.2059)"><flowRegion
+       transform="matrix(0.99729969,0,0,0.93985282,1216.7094,2216.8903)"><flowRegion
          id="flowRegion2989-5-3-2-1"><rect
            id="rect2991-3-9-7-5"
            width="1228.9047"
@@ -240,5 +240,5 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3967">you should have a</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3969">moment-of-genius</flowPara></flowRoot>  </g>
+         id="flowPara3969">stroke of genius</flowPara></flowRoot>  </g>
 </svg>
