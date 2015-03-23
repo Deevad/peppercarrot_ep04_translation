@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="2479"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E04P08.svg">
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1041"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.30757703"
-     inkscape:cx="-356.89384"
-     inkscape:cy="1349.3104"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.40677062"
+     inkscape:cx="1092.4527"
+     inkscape:cy="898.33647"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true" />
@@ -58,13 +58,13 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Desktop\Pepper&amp;Carrot\peppercarrot_ep04_translation-master\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E04P08.png"
+       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-11-21_ep04_Moment-of-genius/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P08.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="2479"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -186,7 +186,7 @@
          id="flowPara4230">1エピソードごとに1ドルの支援でもPepper&amp;Carrotには大きな助けになります!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8-2-8"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:47.99969864px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:47.99969864px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium'"
        transform="matrix(0.78840156,0,0,0.90199233,270.78575,1872.0339)"><flowRegion
          id="flowRegion3029-9-3-5-1"><rect
            id="rect3031-9-1-6-8"
@@ -194,10 +194,10 @@
            height="376.21677"
            x="135.21135"
            y="219.33444"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:47.99969864px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+           style="font-size:47.99969864px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium'" /></flowRegion><flowPara
          id="flowPara4282" /><flowPara
          id="flowPara4284">使用ツール : このエピソードは100%フリーでオープンソースなツールで製作されています</flowPara><flowPara
-         id="flowPara4286">Ubuntu Gnome ( Gnu/Linux )環境のKrita, Gmic, Blender, Gmic</flowPara><flowPara
+         id="flowPara4286">Ubuntu Gnome ( Gnu/Linux )環境のKrita, Gmic, Blender, Gimp</flowPara><flowPara
          id="flowPara4288" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8-2-8-6"
@@ -227,7 +227,7 @@
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:47.99969981px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;writing-mode:lr;text-anchor:middle;" /></flowRegion><flowPara
          id="flowPara4203">License : Creative Commons Attribution to 'David Revoy'</flowPara><flowPara
          id="flowPara4205">ライセンス範囲で派生作品の作成も、変更も、再投稿も、商用利用等も可能です...</flowPara><flowPara
-         id="flowPara4207"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4207" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8-2-3"
        style="font-size:48.0000102px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';writing-mode:lr;"
