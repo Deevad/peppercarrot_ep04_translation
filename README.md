@@ -13,9 +13,11 @@ License
 
 ## Translators and correctors :
 
-* French     : David Revoy
+* Dutch      : Willem Sonke
 
 * English    : David Revoy, Amireti
+
+* French     : David Revoy
 
 * German     : Alexandra Jordan / Helmar Suschka
 
@@ -24,8 +26,6 @@ License
 * Portuguese : Frederico Batista
 
 * Spanish    : TheFaico
-
-* Dutch      : Willem Sonke
 
 
 ## Fonts:
