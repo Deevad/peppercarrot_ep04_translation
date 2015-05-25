@@ -39,30 +39,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="1572"
+     inkscape:window-height="996"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.95880624"
-     inkscape:cx="1063.8021"
-     inkscape:cy="2377.7684"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:zoom="0.36045078"
+     inkscape:cx="1396.9877"
+     inkscape:cy="1294.2539"
+     inkscape:window-x="1969"
+     inkscape:window-y="41"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-11-21_ep04_Moment-of-genius/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-11-21_ep04_Moment-of-genius/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -223,7 +223,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3933">juste une </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3072">petite gorgé</flowPara><flowPara
+         id="flowPara3072">petite gorgée</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3074">...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -242,7 +242,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3085">être frappé d'un</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3087">coup de génie</flowPara><flowPara
+         id="flowPara3087">éclair de génie</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3083" /></flowRoot>  </g>
 </svg>

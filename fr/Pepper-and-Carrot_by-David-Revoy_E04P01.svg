@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36045077"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-11-21_ep04_Moment-of-genius/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P01.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-11-21_ep04_Moment-of-genius/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -135,7 +135,7 @@
    style="font-weight:bold;-inkscape-font-specification:Lavi Bold"
    id="flowSpan3073">personne</flowSpan>, même pas </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3075">Saffran, ne m'arrivera</flowPara><flowPara
+         id="flowPara3075">Safran, ne m'arrivera</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3798"> à la cheville !</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"

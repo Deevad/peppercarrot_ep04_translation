@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="1680"
+     inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46082619"
      inkscape:cx="1227.2287"
      inkscape:cy="64.11223"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-11-21_ep04_Moment-of-genius/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P00.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-11-21_ep04_Moment-of-genius/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P00.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P00.png"
-       width="2481"
-       height="663"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="663"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -82,5 +82,5 @@
            y="644.36664"
            style="fill:#2e5188;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#2e5188;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 4 : Coup de génie</flowPara></flowRoot>  </g>
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#2e5188;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 4 : Éclair de génie</flowPara></flowRoot>  </g>
 </svg>

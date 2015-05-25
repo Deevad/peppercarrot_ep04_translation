@@ -104,15 +104,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-width="1680"
+     inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.78591497"
-     inkscape:cx="518.90777"
+     inkscape:cx="371.94531"
      inkscape:cy="289.61044"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -123,11 +123,11 @@
   <image
      sodipodi:absref="/home/deevad/Production/Webcomics/2014-11-21_ep04_Moment-of-genius/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E04.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -136,7 +136,7 @@
        xml:space="preserve"
        id="flowRoot2987"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#301b0b;fill-opacity:1;stroke:none;display:inline;filter:url(#filter3836);font-family:Arial;-inkscape-font-specification:Arial"
-       transform="matrix(0.69723552,0,0,0.69723552,-804.20841,240.15998)"><flowRegion
+       transform="matrix(0.69723552,0,0,0.69723552,-804.82166,240.15998)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="2405.8"
@@ -145,5 +145,5 @@
            y="644.36664"
            style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-size:68.8433075px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 4 : Coup de génie</flowPara></flowRoot>  </g>
+         style="font-size:68.8433075px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 4 : Éclair de génie</flowPara></flowRoot>  </g>
 </svg>
