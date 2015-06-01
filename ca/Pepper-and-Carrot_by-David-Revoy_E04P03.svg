@@ -45,11 +45,11 @@
      showgrid="false"
      inkscape:zoom="0.47669615"
      inkscape:cx="1130.3656"
-     inkscape:cy="605.30223"
+     inkscape:cy="179.84879"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="C:\Users\Lludriga\Documents\pepper\peppercarrot_ep04_translation-master\peppercarrot_ep04_translation-master\ca\../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -113,8 +113,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 514.05488,2345.9965 c 21.44462,-27.8354 202.46112,-58.0491 266.0819,-0.6861 63.62077,57.363 25.03112,126.1986 -11.4726,148.1008 -36.50373,21.9023 -143.92898,45.8904 -192.94827,27.1171 -49.01929,-18.7734 -87.20225,-46.8359 -89.69487,-104.2964 -1.01734,-23.4519 6.58922,-42.3999 28.03384,-70.2354 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 502.87475,2347.2981 c 22.81535,-28.9239 215.40233,-60.3191 283.08972,-0.713 67.68737,59.6062 26.63109,131.1336 -12.20593,153.8923 -38.83702,22.7588 -153.12884,47.6849 -205.28142,28.1775 -52.15257,-19.5075 -92.77617,-48.6674 -95.42812,-108.3749 -1.08236,-24.369 7.0104,-44.0579 29.82575,-72.9819 z"
        id="path4040"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -126,12 +126,12 @@
        sodipodi:nodetypes="csccc" />
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1710.5025,2645.636 c -36.5349,-36.5756 -57.0302,-81.4639 -45.446,-115.5458 11.5844,-34.082 34.7529,-111.3896 97.1297,-114.7147 62.3767,-3.325 378.7161,-37.4069 415.2511,24.1068 36.535,61.5136 62.3768,157.1091 33.8617,180.3846 -28.5151,23.2753 -81.0898,53.2009 -122.9713,53.2009 -41.8816,0 -96.2385,11.6377 -116.7338,8.3127 -20.4952,-3.3251 -70.3967,-10.8064 -76.6343,-10.8064 -6.2377,0 -101.5851,0 -111.3872,-2.4939 -9.802,-2.4938 -54.3569,7.4814 -73.0699,-22.4442 z"
+       d="m 1713.5938,2667.5303 c -38.8547,-39.8757 -60.6514,-88.8141 -48.3316,-125.9711 12.3199,-37.1571 36.9595,-121.4399 103.297,-125.065 66.3373,-3.625 402.7628,-40.782 441.6176,26.2818 38.8548,67.0638 66.3375,171.2845 36.0118,196.6601 -30.3257,25.3754 -86.2386,58.001 -130.7794,58.001 -44.5409,0 -102.3492,12.6878 -124.1459,9.0628 -21.7966,-3.6251 -74.8666,-11.7815 -81.5002,-11.7815 -6.6338,0 -108.0353,0 -118.4598,-2.7189 -10.4244,-2.7188 -57.8083,8.1564 -77.7095,-24.4692 z"
        id="path4056"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1690.508,2601.5167 c -30.8355,22.6731 -69.8333,55.3224 -105.2033,-7.2554 2.7207,2.7208 22.6731,97.9479 121.5279,44.4393 98.8548,-53.5086 105.2033,-71.6471 105.2033,-71.6471 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1686.508,2627.5167 c -30.8355,22.6731 -69.8333,55.3224 -105.2033,-7.2554 2.7207,2.7208 22.6731,97.9479 121.5279,44.4393 98.8548,-53.5086 105.2033,-71.6471 105.2033,-71.6471 z"
        id="path4064"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />
@@ -144,7 +144,7 @@
        xml:space="preserve"
        id="flowRoot2987"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(0.97226124,0,0,0.98626652,-390.49722,-134.27941)"><flowRegion
+       transform="matrix(0.97226124,0,0,0.98626652,-376.49722,-142.27941)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="1228.9047"
@@ -157,13 +157,13 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3761">Mixet bufó, has</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3037">vingut tot solet pel teu</flowPara><flowPara
+         id="flowPara3037">vingut tot solet pel</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3039">compte...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3039">teu compte...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(0.97226124,0,0,0.98626652,571.64689,-104.83612)"><flowRegion
+       transform="matrix(0.97226124,0,0,0.98626652,571.64689,-140.83612)"><flowRegion
          id="flowRegion2989-4"><rect
            id="rect2991-6"
            width="1228.9047"
@@ -174,7 +174,9 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3810">...just quan em cal</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3046">el meu ajudant preferit!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3046">el meu ajudant</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3035">preferit!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"

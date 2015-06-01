@@ -49,7 +49,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer2" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="C:\Users\Lludriga\Documents\pepper\peppercarrot_ep04_translation-master\peppercarrot_ep04_translation-master\ca\../gfx_Pepper-and-Carrot_by-David-Revoy_E04P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P06.png"
-       width="2481"
-       height="1572"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="1572"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -81,7 +81,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1942.8641,688.631 c 30.5471,-53.4122 196.6954,-48.85248 251.9759,-25.71183 55.2804,23.14065 75.8499,62.99398 78.421,77.13549 2.5712,14.1415 -3.8567,79.70667 -32.1397,92.56258 -28.283,12.85592 -109.2753,19.28387 -137.5583,19.28387 -28.283,0 -118.5686,-8.18268 -141.4151,-26.99742 -21.8551,-17.99828 -49.831,-82.8605 -19.2838,-136.27269 z"
+       d="m 1932.8409,679.50998 c 35.0311,-59.5985 225.5685,-54.51066 288.9636,-28.68982 63.395,25.82084 86.984,70.29005 89.9325,86.06946 2.9486,15.77939 -4.4229,88.93843 -36.8575,103.28334 -32.4347,14.34491 -125.3159,21.51736 -157.7506,21.51736 -32.4347,0 -135.9733,-9.13041 -162.1735,-30.12431 -25.0632,-20.08287 -57.1457,-92.45755 -22.1145,-152.05603 z"
        id="path3330"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -132,7 +132,7 @@
        xml:space="preserve"
        id="flowRoot3056-3"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="matrix(0.97543578,0,0,0.98221981,-121.84634,-3.7185336)"
+       transform="matrix(0.97543578,0,0,0.98221981,-119.84634,0.281466)"
        inkscape:transform-center-x="289.67675"
        inkscape:transform-center-y="-423.01567"><flowRegion
          id="flowRegion3058-9"><rect
@@ -145,17 +145,13 @@
          id="flowPara3062-1"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi">Uau... Carrot!</flowPara><flowPara
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3091">Increïble...</flowPara><flowPara
+         id="flowPara3095">Increïble... Fas</flowPara><flowPara
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3093">Fas servir</flowPara><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3033">l'alfabet!</flowPara><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3095">...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3038">servir l'alfabet!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3056-3-6"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="translate(504.13341,35.593773)"
+       transform="translate(510.08071,47.488377)"
        inkscape:transform-center-x="296.97162"
        inkscape:transform-center-y="-430.67313"><flowRegion
          id="flowRegion3058-9-8"><rect

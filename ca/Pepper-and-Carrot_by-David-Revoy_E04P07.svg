@@ -45,7 +45,7 @@
      showgrid="false"
      inkscape:zoom="0.27255257"
      inkscape:cx="1528.4552"
-     inkscape:cy="4630.3057"
+     inkscape:cy="667.76739"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="C:\Users\Lludriga\Documents\pepper\peppercarrot_ep04_translation-master\peppercarrot_ep04_translation-master\ca\../gfx_Pepper-and-Carrot_by-David-Revoy_E04P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -80,13 +80,13 @@
        id="path3517"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 409.93004,381.36459 c -5.44155,-29.0216 9.06925,-106.11021 120.62101,-99.76174 111.55176,6.34848 129.69026,42.62547 132.41103,53.50857 2.72078,10.8831 26.30082,72.55399 -60.76396,88.87864 -87.06479,16.32465 -165.06033,-0.90693 -192.26808,-42.62547 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 400.08111,385.23715 c -6.28973,-31.88301 10.48288,-116.57224 139.42226,-109.59783 128.93938,6.97441 149.90514,46.82816 153.05,58.78429 3.14487,11.95613 30.40034,79.70751 -70.23527,97.6417 -100.63562,17.9342 -190.78835,-0.99635 -222.23699,-46.82816 z"
        id="path3525"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 746.39917,361.41224 c 26.30082,-39.90469 81.62324,-73.46091 154.17723,-87.06478 72.55399,-13.60388 206.7789,-9.97618 230.3589,-5.44155 23.5801,4.53462 153.2703,20.85927 181.385,43.53239 28.1147,22.67312 66.2055,50.78779 74.3678,79.80939 8.1624,29.02159 0.907,98.85481 -25.3939,114.27253 -26.3008,15.41773 -146.0149,48.97395 -215.8481,50.7878 -69.8332,1.81385 -232.17275,-12.69695 -278.42592,-22.67313 -46.25317,-9.97617 -95.22711,-22.67312 -109.73791,-54.41549 -14.5108,-31.74237 -41.71855,-73.46091 -10.8831,-118.80716 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 752.39917,351.29128 c 26.30082,-44.40725 81.62324,-81.74972 154.17723,-96.88855 72.55399,-15.13884 206.7789,-11.10182 230.3589,-6.05553 23.5801,5.04627 153.2703,23.21288 181.385,48.44427 28.1147,25.23139 66.2055,56.51832 74.3678,88.81451 8.1624,32.29618 0.907,110.00888 -25.3939,127.16623 -26.3008,17.15735 -146.0149,54.49982 -215.8481,56.51833 -69.8332,2.01851 -232.17275,-14.12958 -278.42592,-25.23141 -46.25317,-11.10181 -95.22711,-25.23139 -109.73791,-60.55534 -14.5108,-35.32395 -41.71855,-81.74971 -10.8831,-132.21251 z"
        id="path3533"
        inkscape:connector-curvature="0" />
     <path
@@ -112,8 +112,8 @@
        id="path3565"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 247.07808,2310.7883 c 13.19349,-74.3633 59.9704,-118.7414 287.85795,-135.5331 227.88755,-16.7917 257.87275,69.5657 265.0692,112.7444 7.19645,43.1786 1.19941,106.7473 -62.36922,139.1313 -63.56863,32.384 -202.69998,39.5805 -253.07512,31.1846 -50.37514,-8.3958 -139.13134,-17.9911 -167.91714,-45.5775 -28.7858,-27.5864 -65.96745,-37.1817 -69.56567,-101.9497 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 241.07808,2311.0474 c 14.06521,-80.9851 63.93275,-129.3149 306.87725,-147.6019 242.94449,-18.287 274.91086,75.7604 282.5828,122.784 7.67193,47.0235 1.27865,116.2529 -66.49007,151.5206 -67.76872,35.2676 -216.09273,43.105 -269.79625,33.9615 -53.70352,-9.1435 -148.324,-19.5932 -179.01173,-49.6361 -30.68773,-30.0429 -70.32604,-40.4926 -74.162,-111.0281 z"
        id="path3573"
        inkscape:connector-curvature="0" />
     <path
@@ -161,7 +161,7 @@
        xml:space="preserve"
        id="flowRoot2987-9"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(-169.72842,-9.076719)"><flowRegion
+       transform="translate(-169.72842,-1.076719)"><flowRegion
          id="flowRegion2989-8"><rect
            id="rect2991-8"
            width="816.64679"
@@ -272,9 +272,9 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3081">temps suficient</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3083">per inventar</flowPara><flowPara
+         id="flowPara3086">per inventar una</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3086">una nova poció.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3057">nova poció.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-9-2-0-6-0-6-8"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Lavi;-inkscape-font-specification:Lavi"
