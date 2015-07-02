@@ -21,6 +21,8 @@ License
 
 * English    : David Revoy, Amireti, Alex Gryson
 
+* Esperanto  : libre fan
+
 * French     : David Revoy
 
 * German     : Alexandra Jordan / Helmar Suschka
