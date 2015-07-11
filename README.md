@@ -25,6 +25,8 @@ License
 
 * French     : David Revoy
 
+* Finnish	   : Kari Lehto
+
 * German     : Alexandra Jordan / Helmar Suschka
 
 * Italian    : Carlo Gandolfi
