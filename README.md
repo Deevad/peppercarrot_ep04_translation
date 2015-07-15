@@ -17,6 +17,8 @@ License
 
 * Catalan    : Juan Jose Segura
 
+* Chinese    : Ran Zhuang
+
 * Dutch      : Willem Sonke
 
 * English    : David Revoy, Amireti, Alex Gryson
@@ -25,7 +27,7 @@ License
 
 * French     : David Revoy
 
-* Finnish	   : Kari Lehto
+* Finnish    : Kari Lehto
 
 * German     : Alexandra Jordan / Helmar Suschka
 
