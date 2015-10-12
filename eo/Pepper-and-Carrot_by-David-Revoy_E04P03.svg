@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E04P03.svg">
@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36045078"
-     inkscape:cx="1396.9877"
-     inkscape:cy="1294.2539"
+     inkscape:cx="1151.7332"
+     inkscape:cy="3049.4173"
      inkscape:window-x="1969"
      inkscape:window-y="41"
      inkscape:window-maximized="0"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/2014-11-21_ep04_Moment-of-genius/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-11-21_ep04_Moment-of-genius/lang/eo/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -162,7 +162,7 @@
          id="flowPara3038">ĉu ne?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.97226124,0,0,0.98626652,571.64689,-136.83612)"><flowRegion
          id="flowRegion2989-4"><rect
            id="rect2991-6"
@@ -172,7 +172,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3810">Ĝustegatempe, kiam</flowPara><flowPara
+         id="flowPara3810">Gustegatempe, kiam</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3047">mi bezonas mian</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
@@ -244,5 +244,14 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3087">genia ekfulmo</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3083" /></flowRoot>  </g>
+         id="flowPara3083" /></flowRoot>    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.00374985px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4185"
+       transform="matrix(0.83417819,0,0,0.85808306,180.16439,17.444212)">
+      <path
+         d="m 1102.1293,126.30145 -3.6951,3.69512 -8.928,-11.10831 -8.6984,11.33782 -3.6951,-3.2361 12.4853,-15.03294 12.5313,14.34441 z"
+         id="path4190"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
 </svg>
