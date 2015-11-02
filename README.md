@@ -27,7 +27,7 @@ License
 
 * English: David Revoy, Amireti, Alex Gryson
 
-* Esperanto: libre fan
+* Esperanto  : libre fan (librefan.eu.org) kaj kaoseto
 
 * French: David Revoy
 
