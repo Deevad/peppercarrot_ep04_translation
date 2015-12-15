@@ -45,7 +45,7 @@
      showgrid="false"
      inkscape:zoom="0.36045078"
      inkscape:cx="1396.9877"
-     inkscape:cy="937.40082"
+     inkscape:cy="863.08144"
      inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep04_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -159,7 +159,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3036">o tont diouzhit</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3039">da-unan</flowPara><flowPara
+         id="flowPara3039">da-unan.</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3038" /></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -180,7 +180,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3043">eus ma skoazeller</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3045">gwellañ karet</flowPara></flowRoot>    <flowRoot
+         id="flowPara3045">gwellañ karet.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -197,7 +197,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3062">Sede amañ</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3049">ma fennoberenn</flowPara></flowRoot>    <flowRoot
+         id="flowPara3049">ma fennoberenn:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0-8"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -210,13 +210,13 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3899">braoued </flowPara><flowPara
+         id="flowPara3899">dramm </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3068">an Dud a Ijin</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0-8-0"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(0.99729969,0,0,0.93985282,-78.83126,2110.9828)"><flowRegion
+       transform="matrix(0.99729969,0,0,0.93985282,-78.83126,2122.9828)"><flowRegion
          id="flowRegion2989-5-3-2"><rect
            id="rect2991-3-9-7"
            width="1228.9047"
@@ -227,13 +227,11 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3072">ul lonkadennig</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3053">hepken</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3074">...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3074">hepken...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0-8-0-9"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(0.99729969,0,0,0.93985282,1216.185,2260.1044)"><flowRegion
+       transform="matrix(0.99729969,0,0,0.93985282,1216.185,2268.1044)"><flowRegion
          id="flowRegion2989-5-3-2-1"><rect
            id="rect2991-3-9-7-5"
            width="1228.9047"
@@ -246,7 +244,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3087">pakañ un taol</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3057">ijin</flowPara><flowPara
+         id="flowPara3057">ijin.</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3083" /></flowRoot>  </g>
 </svg>
