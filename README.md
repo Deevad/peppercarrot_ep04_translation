@@ -23,6 +23,8 @@ License
 
 * Chinese: Ran Zhuang
 
+* Czech: Martin Doucha
+
 * Dutch: Willem Sonke
 
 * English: David Revoy, Amireti, Alex Gryson
