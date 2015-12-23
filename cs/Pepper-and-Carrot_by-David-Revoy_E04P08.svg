@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -59,7 +59,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40677062"
-     inkscape:cx="1164.1147"
+     inkscape:cx="1161.6563"
      inkscape:cy="691.46312"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
@@ -75,11 +75,11 @@
     <image
        sodipodi:absref="/home/next_ghost/src/pepper_carrot/ep4/cs/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P08.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="2479"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -204,7 +204,7 @@
        xml:space="preserve"
        id="flowRoot3027-8-8-2-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.78840156,0,0,0.90199233,280.78575,1912.0339)"><flowRegion
+       transform="matrix(0.78840156,0,0,0.90199233,284.78575,1912.0339)"><flowRegion
          id="flowRegion3029-9-3-5-1"><rect
            id="rect3031-9-1-6-8"
            width="2230.314"
@@ -222,7 +222,7 @@
        xml:space="preserve"
        id="flowRoot3027-8-8-2-8-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.78840156,0,0,0.90199233,267.389,1800.6105)"><flowRegion
+       transform="matrix(0.78840156,0,0,0.90199233,273.389,1800.6105)"><flowRegion
          id="flowRegion3029-9-3-5-1-2"><rect
            id="rect3031-9-1-6-8-7"
            width="2230.314"
@@ -233,9 +233,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3278">Open-source: veškeré zdrojové soubory s vrstvami ve vysokém rozlišení</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3410">včetně fontů jsou k dispozici ke stažení na oficiální stránce...</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3233-6-14" /></flowRoot>    <flowRoot
+         id="flowPara3233-6-14">včetně fontů jsou k dispozici ke stažení na oficiální stránce.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8-2-8-6-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
