@@ -45,18 +45,18 @@
      showgrid="false"
      inkscape:zoom="0.36045078"
      inkscape:cx="1396.9877"
-     inkscape:cy="2514.9476"
+     inkscape:cy="1183.2817"
      inkscape:window-x="346"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-11-21_ep04_Moment-of-genius/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-11-21_ep04_Moment-of-genius/lang/la/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
        y="0"
        x="0"
@@ -70,12 +70,12 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="M 85.0306,227.83535 C 83.909177,171.75551 108.58036,105.09456 148.95138,94.513463 189.3224,83.932359 439.39844,73.351257 460.70534,80.758029 c 21.30693,7.406772 47.09953,21.162211 68.40645,41.266301 21.30693,20.10409 38.12819,53.96361 34.76394,81.47449 -3.36426,27.51086 -19.0641,83.5907 -33.64252,98.40424 -14.57842,14.81356 -53.82802,49.73119 -93.07763,56.07985 -39.2496,6.34866 -85.22769,11.63921 -103.17036,10.58111 -17.94268,-1.05811 -109.89889,-7.40678 -109.89889,-7.40678 0,0 -49.34235,4.23244 -65.0422,-6.34866 C 143.3443,344.22748 102.97328,326.2396 90.637686,281.79897 78.3021,237.35835 85.0306,265.92733 85.0306,227.83535 z"
+       d="M 85.0306,210.69153 C 83.909177,161.04035 108.58036,102.02102 148.95138,92.652875 189.3224,83.284726 439.39844,73.916579 460.70534,80.474283 c 21.30693,6.557703 47.09953,18.7363 68.40645,36.535777 21.30693,17.79948 38.12819,47.77754 34.76394,72.13474 -3.36426,24.35718 -19.0641,74.00836 -33.64252,87.12376 -14.57842,13.11542 -53.82802,44.0303 -93.07763,49.65119 -39.2496,5.62089 -85.22769,10.30496 -103.17036,9.36816 -17.94268,-0.93682 -109.89889,-6.55772 -109.89889,-6.55772 0,0 -49.34235,3.74726 -65.0422,-5.62088 -15.69983,-9.36815 -56.07085,-25.294 -68.406444,-64.64022 C 78.3021,219.12287 85.0306,244.41688 85.0306,210.69153 z"
        id="path3971"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 570.91828,456.50332 c -88.75621,-26.38698 -125.93786,-37.18166 -148.72661,-95.95266 -22.78876,-58.77099 -39.58047,-5.99704 -39.58047,-5.99704 0,0 8.39585,103.1491 188.30708,101.9497 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 562.59537,431.53459 C 473.83916,405.14761 436.65751,394.35293 413.86876,335.58193 391.08,276.81094 374.28829,329.58489 374.28829,329.58489 c 0,0 8.39585,103.1491 188.30708,101.9497 z"
        id="path3984"
        inkscape:connector-curvature="0" />
     <path
@@ -126,7 +126,7 @@
        sodipodi:nodetypes="csccc" />
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1747.2347,2675.0108 c -31.5132,-41.0032 -49.1914,-91.3254 -39.1995,-129.5331 9.9922,-38.2077 29.9762,-124.8737 83.7793,-128.6013 53.8031,-3.7275 326.6619,-41.9352 358.1753,27.025 31.5133,68.9601 53.8031,176.1278 29.2074,202.2209 -24.5958,26.0928 -69.944,59.641 -106.069,59.641 -36.1252,0 -83.0106,13.0465 -100.6888,9.319 -17.6783,-3.7276 -60.7208,-12.1145 -66.1011,-12.1145 -5.3803,0 -87.6222,0 -96.0772,-2.7958 -8.4545,-2.7957 -46.8855,8.387 -63.0264,-25.1612 z"
+       d="m 1733.2342,2701.553 c -33.4983,-45.0039 -52.2902,-100.236 -41.6688,-142.1716 10.6216,-41.9356 31.8645,-137.0575 89.0568,-141.1489 57.1924,-4.0911 347.2396,-46.0267 380.7381,29.6619 33.4985,75.6885 57.1924,193.3125 31.0473,221.9515 -26.1451,28.6386 -74.35,65.4601 -112.7506,65.4601 -38.4009,0 -88.2398,14.3195 -107.0316,10.2283 -18.792,-4.0913 -64.5458,-13.2965 -70.2651,-13.2965 -5.7192,0 -93.1418,0 -102.1294,-3.0686 -8.9871,-3.0685 -49.839,9.2053 -66.9967,-27.6162 z"
        id="path4056"
        inkscape:connector-curvature="0" />
     <path
@@ -153,13 +153,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          id="flowPara2995"
-         style="font-size:48px;text-align:center;text-anchor:middle">ooooh, Carotte !</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle">Ooooh, Carota !</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3757">t'es trop minou</flowPara><flowPara
+         id="flowPara3038">Quam dulce quod</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3034">d'être venu tout</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3038">seul</flowPara></flowRoot>    <flowRoot
+         id="flowPara3039">sponte tua venisti !</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -172,11 +170,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3810">Pile poil au moment</flowPara><flowPara
+         id="flowPara3810">Ipso tempo ubi</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3047">où j'ai besoin de mon</flowPara><flowPara
+         id="flowPara3051">requiro opitulantem</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3051">assistant préféré</flowPara></flowRoot>    <flowRoot
+         id="flowPara3043">gratiosissimum.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -189,11 +187,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3859">Taaadaaaa !</flowPara><flowPara
+         id="flowPara3859">Ecceeeeee !</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3058">Je te présente mon</flowPara><flowPara
+         id="flowPara3062">Hoc ibi est magnum</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3062">chef-d'œuvre</flowPara></flowRoot>    <flowRoot
+         id="flowPara3047">opus meum.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0-8"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -206,9 +204,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3899">la potion </flowPara><flowPara
+         id="flowPara3068">Potio illa</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3068">des Génies</flowPara></flowRoot>    <flowRoot
+         id="flowPara3052">ingenii !</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0-8-0"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -221,11 +219,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3933">juste une </flowPara><flowPara
+         id="flowPara3074">Parvum</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3072">petite gorgée</flowPara><flowPara
+         id="flowPara3059">haustum bibe</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3074">...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3061">…</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0-8-0-9"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -238,11 +236,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3091">... et tu devrais</flowPara><flowPara
+         id="flowPara3087">… et si valet,</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3085">être frappé d'un</flowPara><flowPara
+         id="flowPara3069">repente habebis</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3087">éclair de génie</flowPara><flowPara
+         id="flowPara3071">egregium ingenium.</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3083" /></flowRoot>  </g>
 </svg>
