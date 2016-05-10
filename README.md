@@ -47,6 +47,8 @@ License
 
 * Latin: Guillaume Lestringant
 
+* Lojban: Gleki Arxokuna
+
 * Polish : Sölve Svartskogen
 
 * Portuguese: Frederico Batista
