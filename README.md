@@ -19,7 +19,7 @@ License
 
 * Breton: Stefan Carpentier
 
-* Catalan: Juan Jose Segura
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
@@ -29,7 +29,7 @@ License
 
 * English: David Revoy, Amireti, Alex Gryson
 
-* Esperanto  : libre fan (librefan.eu.org) kaj kaoseto
+* Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
 
 * French: David Revoy
 
