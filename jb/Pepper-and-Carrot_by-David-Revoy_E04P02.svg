@@ -427,15 +427,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4121778"
-     inkscape:cx="491.17745"
-     inkscape:cy="1102.7743"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1629.0359"
+     inkscape:cy="775.24574"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -444,13 +444,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep04_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E04P02.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep04_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -729,15 +729,15 @@
        transform="translate(442.92828,592.66331)"><flowRegion
          id="flowRegion2989-3"><rect
            id="rect2991-4"
-           width="459.11337"
-           height="183.84949"
+           width="473.6702"
+           height="186.27562"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3812">i manci </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara7969">i ji'a na zvati lo cnita be lo ckana</flowPara></flowRoot>    <flowRoot
+         id="flowPara7969">i ji'a na cnita lo ckana</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -792,7 +792,7 @@
          style="font-size:48px">la karot</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-1-6-5"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1789.8534,462.08352)"><flowRegion
          id="flowRegion2989-1-0-4"><rect
            id="rect2991-1-2-3"
@@ -801,14 +801,14 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara2995-3-2-3"
-         style="font-size:48px;text-align:center;text-anchor:middle">I really didn't</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3935">think I would</flowPara><flowPara
+         id="flowPara3939">oi i pu kanpe</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3937">have to use </flowPara><flowPara
+         id="flowPara3577">lo nu na sarcu</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3939">this trick ...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3579">fa lo nu tai ti</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3581">tcica e'ende</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
