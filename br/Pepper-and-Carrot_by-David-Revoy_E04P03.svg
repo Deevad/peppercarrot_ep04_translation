@@ -15,7 +15,10 @@
    inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E04P03.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E04P03.svg"
+   inkscape:export-filename="/home/stefan/Documents/Pepper&amp;Carrot/Rann 04/Pepper-and-Carrot_by-David-Revoy_E04P03.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +48,7 @@
      showgrid="false"
      inkscape:zoom="0.36045078"
      inkscape:cx="1396.9877"
-     inkscape:cy="863.08144"
+     inkscape:cy="997.50709"
      inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -56,13 +59,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep04_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
+       sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep04_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -153,7 +156,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          id="flowPara2995"
-         style="font-size:48px;text-align:center;text-anchor:middle">ooooh, Carrot !</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle">ooooh, Carrot!</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3757">Pegen bisig out bet</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
@@ -193,7 +196,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3859">Taaadaaaa !</flowPara><flowPara
+         id="flowPara3859">Taaaaada!</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3062">Sede amañ</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
