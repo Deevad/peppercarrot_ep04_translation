@@ -432,12 +432,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4121778"
-     inkscape:cx="1629.0359"
-     inkscape:cy="775.24574"
+     inkscape:cx="1262.6891"
+     inkscape:cy="229.36481"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -446,11 +446,11 @@
     <image
        sodipodi:absref="/mnt/bitcoin/peppercarrot_ep04_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -572,17 +572,18 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-8"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#d85e10;stroke-opacity:1;filter:url(#filter4968-5);font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(0.56421638,-0.28299338,0.40834508,0.9532616,1627.0886,1315.3263)"><flowRegion
-         id="flowRegion2989-4-5-8-4"><rect
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#d85e10;stroke-width:1.06163132;stroke-opacity:1;filter:url(#filter4968-5)"
+       transform="matrix(0.53335552,-0.26561816,0.38600989,0.89473325,1627.174,1337.3943)"><flowRegion
+         id="flowRegion2989-4-5-8-4"
+         style="stroke-width:1.06163132"><rect
            id="rect2991-45-1-3-5"
            width="417.15793"
            height="141.89404"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#d85e10;stroke-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;fill-opacity:1;stroke:#d85e10;stroke-width:1.06163132;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara2995-4-1-5-2"
-         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:#d85e10;stroke-width:3.93892883999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">CAT FOOD</flowPara></flowRoot>    <path
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:#d85e10;stroke-width:4.18169022;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">MLATU CIDJA</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1924.9438,1496.4501 c -4.8004,54.1755 -0.6858,78.863 4.8004,91.8926 19.1524,-4.4576 31.0358,-5.7603 34.2882,-13.7153 -8.2292,13.0295 -12.3437,32.9167 -19.8872,37.0313 -7.5434,4.1146 -71.3196,35.6598 -79.5488,40.4602 -8.2292,4.8003 6.8577,8.2292 6.8577,8.2292 l 50.0609,-6.8577 -37.7171,27.4306 26.0591,4.8004 130.2954,-41.1459 -2.7431,-10.2865 -17.1441,-2.0573 20.573,-4.8004 -5.4862,-10.2865 -64.4619,-4.8003 c 0,0 20.573,-41.8317 26.7448,-56.2328 -19.9985,-8.5809 -45.2605,6.8577 -51.4324,7.5434 -12.1474,-13.2081 -10.4793,-38.4181 -21.2587,-67.205 z"
        id="path5162"
