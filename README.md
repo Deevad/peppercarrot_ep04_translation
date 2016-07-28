@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 04: Stroke of genius
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -19,7 +19,7 @@ License
 
 * Breton: Stefan Carpentier
 
-* Catalan: Juan José Segura
+* Catalan: Juan Jos? Segura
 
 * Chinese: Ran Zhuang
 
@@ -37,9 +37,11 @@ License
 
 * German: Alexandra Jordan / Helmar Suschka
 
+* Greek: George Karettas
+
 * Indonesian: Bonaventura Aditya Perdana
 
-* Hungarian: Halász Gábor "Hali"
+* Hungarian: Hal?sz G?bor "Hali"
 
 * Italian: Carlo Gandolfi
 
@@ -49,7 +51,7 @@ License
 
 * Lojban: Gleki Arxokuna
 
-* Polish : Sölve Svartskogen
+* Polish : S?lve Svartskogen
 
 * Portuguese: Frederico Batista
 
