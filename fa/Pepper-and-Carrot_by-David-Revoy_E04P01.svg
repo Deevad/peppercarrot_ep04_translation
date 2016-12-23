@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E04P01.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.23834807"
+     inkscape:cx="1464.6092"
+     inkscape:cy="971.44097"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 4\peppercarrot_ep04_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E04P01.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E04P01.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 479.75968,2399.6429 c -4.95992,-44.6393 -9.91984,-135.7215 0,-155.5612 6.31263,0 16.68338,-0.4509 16.68338,-0.4509 l -9.91985,-24.3487 18.03608,5.8618 9.01804,-8.1163 -5.86173,-13.527 16.23247,6.3126 8.11624,-13.0762 13.52706,9.469 6.76353,-13.5271 14.87976,10.8217 27.50502,-5.8618 c 67.49435,-2.3892 134.23399,-6.0363 205.16039,-2.7054 l 21.6433,-8.5671 6.31262,12.6252 11.27255,0.4509 10.82165,-5.4108 10.82165,5.8617 36.07215,-4.0581 11.72345,11.7235 13.97797,-9.9199 4.50901,13.0762 13.97797,-8.1162 2.25451,8.5671 33.36674,-9.9199 -4.95992,20.2906 c 0,0 24.79961,9.0181 42.38478,2.2545 1.8036,4.5091 -0.9018,12.6253 -0.9018,12.6253 l 9.018,4.509 0,11.7235 c 0,0 18.0361,15.3306 19.8397,19.3888 1.8036,4.0581 5.8617,114.98 -0.4509,132.5651 4.9599,0 8.1163,2.7054 7.6654,5.4109 -0.4509,2.7054 -4.0582,10.3707 -4.0582,10.3707 0,0 4.96,7.2144 3.6073,9.4689 -1.3528,2.2546 -4.0582,5.4109 -4.0582,5.4109 0,0 4.5091,5.8617 3.1563,7.6653 -1.3527,1.8036 -9.018,4.9599 -12.1743,6.7635 3.6072,3.6072 6.7635,11.2726 4.0581,13.0762 -2.7054,1.8036 -9.018,3.1563 -9.018,3.1563 l -2.2545,4.509 c 0,0 -0.9018,9.0181 -3.1563,9.469 -2.2546,0.4509 -11.7235,-4.5091 -13.0762,-3.6073 -1.3527,0.9018 -4.9599,8.1163 -7.2144,8.1163 -2.2545,0 -9.46898,-8.5672 -9.46898,-8.5672 -0.96362,1.9272 -120.04069,5.1615 -129.85976,3.1564 -9.87862,-2.0173 -48.69741,2.7054 -54.10824,2.7054 -5.41082,0 -27.95592,-1.3527 -31.11223,-2.2545 -3.15632,-0.9018 -15.78157,-4.0582 -20.29059,-3.6073 -4.50902,0.4509 -13.07616,4.96 -18.03608,4.96 -4.95992,0 -33.36674,-2.7054 -38.77757,-2.2545 -5.41082,0.4509 -30.21043,2.2545 -34.26854,2.2545 -4.05812,0 -49.59922,-4.96 -54.55914,-5.4109 -4.95992,-0.4509 -26.60322,4.5091 -30.66133,4.0582 -4.05812,-0.4509 -27.05412,-4.5091 -34.26855,-4.0582 -7.21443,0.4509 -34.26855,-5.8617 -36.07216,-5.4108 -1.80361,0.4509 -4.52726,0.9008 -21.19239,0 8.56714,-6.7635 5.86172,-12.6252 5.86172,-12.6252 l -6.31262,-3.6073 0.9018,-4.0581 -13.07616,-6.7635 1.80361,-4.9599 0.9018,-8.1163 -13.07615,-6.3126 20.74149,-18.0361 z"
+       id="path3894"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccscscccccsccssscssssssssssscccccccccc" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 818.04625,2447.3394 c 1.81385,78.9025 3.6277,268.4498 28.11468,311.9822 24.48697,43.5324 33.55622,70.7401 98.85481,79.8094 -68.92629,-32.6493 -89.78557,-105.2033 -96.13404,-230.3589 -6.34847,-125.1557 43.5324,-212.2205 43.5324,-212.2205 l -68.01937,-3.6277 z"
+       id="path3896"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 700.70164,2528.15 c 10.82165,-4.0581 10.82165,-12.1744 6.31263,-22.5451 3.15632,-0.4509 13.97796,2.2545 12.17435,-4.9599 2.70542,-0.9018 6.31263,-0.9018 4.05812,-6.7636 3.15632,-0.4509 12.17435,1.8036 9.91985,-4.0581 5.86172,-1.3527 60.87176,-3.1563 80.71145,-0.9018 19.83968,2.2545 73.04611,0.4509 78.45694,0 5.41082,-0.4509 46.8938,0 50.50102,0 3.60721,0 18.03607,4.9599 22.54509,7.6653 6.76353,-3.6072 15.33067,-2.2545 15.33067,-2.2545 0,0 0,15.3307 1.35271,16.6834 1.3527,1.3527 8.11623,-2.2545 9.46894,0 1.3527,2.2545 -9.46894,15.7816 -8.11624,16.2325 1.35271,0.4509 12.17435,5.4108 12.17435,7.2144 0,1.8036 -8.56713,10.3707 -8.11623,10.8216 0.4509,0.4509 7.21443,6.3127 6.31263,11.2726 8.11628,1.8036 12.17438,6.3126 14.42888,9.4689 -3.6072,5.8618 -12.17437,11.2726 -13.97798,14.4289 2.25451,5.4108 8.11628,12.6253 6.76348,14.8798 -1.3527,2.2545 -7.66529,1.8036 -12.1743,-0.9018 1.8036,6.7635 1.3527,60.8717 -6.76353,80.7114 2.25451,4.509 6.31262,7.6653 7.21443,12.1744 0.9018,4.509 -1.80361,11.7234 -1.35271,13.9779 0.4509,2.2545 4.05812,9.9199 3.60722,13.5271 -0.45091,3.6072 -2.25451,7.2144 -4.95992,9.4689 -0.45091,3.6072 1.8036,6.3127 -0.45091,7.2145 -2.25451,0.9018 -11.27255,-4.0582 -13.52706,-3.1564 -2.25451,0.9018 -0.4509,13.0762 -2.70541,15.3307 -2.25451,2.2545 -50.95192,8.1162 -61.77357,3.1563 -11.27254,-0.9018 -94.68941,18.487 -129.40886,10.8217 -4.05811,-0.9018 -3.15631,-4.0581 -6.31262,-4.96 -3.15632,-0.9018 -4.95993,2.2546 -11.72346,1.3528 -5.86172,-4.5091 -13.52705,-4.96 -25.70141,-26.6033 -4.05811,0 -10.82164,2.2545 -11.72345,-1.3527 -0.9018,-3.6072 0.4509,-6.3126 0.4509,-6.3126 0,0 -4.50902,1.3527 -4.95992,-1.3527 -0.4509,-2.7054 5.86173,-9.9198 5.41083,-11.2725 -0.45091,-1.3528 -13.07616,2.7054 -13.52706,-0.451 -0.4509,-3.1563 4.95992,-10.8216 4.50902,-13.0761 -0.45091,-2.2545 -22.5451,-36.974 -15.33067,-142.485 3.60722,-1.3527 7.21443,-2.7054 6.76353,-4.509 -0.4509,-1.8037 -5.86173,-5.4109 -5.86173,-5.4109 z"
+       id="path3915"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2161.9635,2759.6873 c 75.5442,-65.8317 129.3057,-115.4309 140.8923,-189.8298 11.5865,-74.3988 -1.8538,-91.5331 -5.5615,-100.5511 -12.977,1.8036 -33.8327,13.978 -38.0039,19.3888 1.8539,-19.8397 -11.5865,-82.5151 -31.9788,-107.3147 -20.3923,-24.7996 -39.3943,-7.6653 -39.3943,-7.6653 0,0 61.177,94.6894 55.1519,157.8157 12.0501,-12.6253 34.7597,-36.974 40.3212,-32.465 5.5615,4.5091 8.3423,64.9299 -3.7077,92.4349 -12.05,27.5051 -38.9308,101.9039 -117.7192,168.1865 z"
+       id="path3923"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 1833.6133,2351.2926 c 0,0 39.2393,7.546 45.4676,11.6092 6.2286,4.0632 31.1424,-2.9024 -3.7371,43.5341 35.5021,-15.0918 63.5301,-31.3446 76.61,-29.6031 -5.6057,11.6089 -11.834,26.7008 -11.834,26.7008 0,0 32.3879,-12.1895 38.6163,-11.609 -1.8687,5.224 2.4913,15.6722 2.4913,15.6722 l 16.8167,-2.3218 4.9829,13.931 c 0,0 67.2672,-24.3793 75.3639,-21.477 8.0971,2.9024 -3.737,33.6665 -3.737,33.6665 l 18.0627,-12.1895 8.7198,0.5805 21.1765,-19.7356 6.8513,11.0287 4.9827,-4.0632 9.9657,4.6436 23.6681,-16.8333 8.0967,1.7414 20.5539,26.701 11.2113,-12.1895 5.6056,-0.5804 36.7479,1.1608 2.4913,-2.9022 6.2283,-1.161 8.7199,-5.8044 4.9828,-13.3507 10.5883,0 21.1768,12.1897 9.9654,8.1264 7.4741,-19.7355 4.3599,-2.3219 1.2458,-12.1895 24.291,9.2873 7.4741,5.8045 1.8683,-10.4482 8.0971,-0.5805 14.9482,4.0633 16.194,11.0287 24.291,12.1895 -36.748,-44.6952 -8.7196,-8.1263 31.7649,-8.1264 0,-92.8728 -12.4568,-127.7003 -542.4972,6.3849 -13.7024,84.1661 0.6228,74.8789 -3.1142,24.9596 27.4052,8.7069 -26.7825,13.3504 16.8168,9.2872 z"
+       id="path3931"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(60.943155,-95.154926)"><flowRegion
+         id="flowRegion2989"><rect
+           id="rect2991"
+           width="973.52362"
+           height="213.03587"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara2993"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;font-family:Midan;-inkscape-font-specification:Midan;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">شب قبل از مسابقه</flowPara><flowPara
+         id="flowPara2995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:Midan;-inkscape-font-specification:Midan;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">ساعت: 2 شب</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(335.01909,1967.8859)"><flowRegion
+         id="flowRegion2989-5"><rect
+           id="rect2991-7"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         id="flowPara3798">بلاخره...</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         id="flowPara4175">با این معجون حتی سافرون</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         id="flowPara4177">هم به گرد پام نمیرسه.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.96141471,0,0,0.91963896,440.62202,2279.9847)"><flowRegion
+         id="flowRegion2989-5-9"><rect
+           id="rect2991-7-4"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.44473267px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         id="flowPara3849">باید رو یه</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.44473267px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         id="flowPara4188">نفر امتحانش</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.44473267px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         id="flowPara4190">کنم.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-8-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.4179226,0,0,1.4152108,1523.2378,1812.9455)"><flowRegion
+         id="flowRegion2989-5-9-2"><rect
+           id="rect2991-7-4-2"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.7118988px;font-family:Midan;-inkscape-font-specification:'Midan Heavy';text-align:center;text-anchor:middle"
+         id="flowPara3892">هویییج!!!</flowPara></flowRoot>  </g>
+</svg>
