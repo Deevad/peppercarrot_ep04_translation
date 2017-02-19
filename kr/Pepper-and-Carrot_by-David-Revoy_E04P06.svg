@@ -39,16 +39,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="960"
-     inkscape:window-height="1024"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36"
      inkscape:cx="1265.0878"
      inkscape:cy="672.03869"
-     inkscape:window-x="960"
+     inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep04_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E04P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P06.png"
-       width="2481"
-       height="1572"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="1572"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -143,7 +143,7 @@
            y="652.80212"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3062-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"> 우와... 캐럿!</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"> 우와... 당근!</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3091">정말 대단하다...</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
