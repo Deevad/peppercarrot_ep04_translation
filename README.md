@@ -51,6 +51,8 @@ License
 
 * Korean: Shikamaru Yamamoto, Jihoon Kim
 
+* Kotava: Kotava dokalixo (http://kotava.org/phpBB3/index.php)
+
 * Latin: Guillaume Lestringant
 
 * Lojban: Gleki Arxokuna
