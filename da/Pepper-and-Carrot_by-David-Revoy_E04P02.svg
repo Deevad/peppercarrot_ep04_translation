@@ -486,8 +486,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36045077"
-     inkscape:cx="1365.644"
-     inkscape:cy="1468.8665"
+     inkscape:cx="1317.0937"
+     inkscape:cy="2221.0691"
      inkscape:window-x="1273"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -500,11 +500,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep04_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E04P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2646.3999"
        height="3736.5334"
-       width="2646.3999" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1134,37 +1134,5 @@
          id="flowPara2995-4-1-5-7"
          style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff">O Sole</flowPara><flowPara
          style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff"
-         id="flowPara4923">Miijaaavvv !</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2987-7-9-9-7-4-5-35-8-9-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.42419648;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-5-4-2-8-9-9)"
-       transform="matrix(0.85525958,-0.18866158,0.0431948,0.76190565,709.03735,1717.4463)"><flowRegion
-         id="flowRegion2989-4-5-8-7-8-5-0-7-8-0"
-         style="stroke-width:7.75395966"><rect
-           id="rect2991-45-1-3-3-4-3-60-4-4-9"
-           width="572.43164"
-           height="165.43835"
-           x="120.55251"
-           y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.42419648;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-weight:normal;font-size:48px;line-height:1.25;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.42419648;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4701-1-5-7">Crrr Crrr Crrr</flowPara><flowPara
-         style="font-weight:normal;font-size:48px;line-height:1.25;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.42419648;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4750-7-6">Crrr Crrr</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2987-7-9-9-7-4-5-35-81-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.56195223;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-5-4-2-7-2)"
-       transform="matrix(0.81035874,-0.20119528,0.04092709,0.81252267,1751.8747,1582.8043)"><flowRegion
-         id="flowRegion2989-4-5-8-7-8-5-0-5-1"
-         style="stroke-width:8.50396347"><rect
-           id="rect2991-45-1-3-3-4-3-60-6-8"
-           width="572.43164"
-           height="165.43835"
-           x="120.55251"
-           y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.56195223;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara2995-4-1-5-0-07-0-8-1-9"
-         style="font-weight:normal;font-size:48px;line-height:1.25;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.56195223;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Shhh  Shhh  Shhh</flowPara><flowPara
-         style="font-weight:normal;font-size:48px;line-height:1.25;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.56195223;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4701-3-7">Shhh Shhh</flowPara></flowRoot>  </g>
+         id="flowPara4923">Miijaaavvv !</flowPara></flowRoot>  </g>
 </svg>
