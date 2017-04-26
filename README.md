@@ -25,6 +25,8 @@ License
 
 * Czech: Martin Doucha
 
+* Danish: [Alexandre](https://github.com/Alkarex) & Rikke Alapetite
+
 * Dutch: Willem Sonke
 
 * English: David Revoy, Amireti, Alex Gryson
