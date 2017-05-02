@@ -51,9 +51,9 @@
      inkscape:window-height="1368"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.50022653"
-     inkscape:cx="1353.7106"
-     inkscape:cy="1763.5175"
+     inkscape:zoom="0.35371357"
+     inkscape:cx="1376.4102"
+     inkscape:cy="1554.1514"
      inkscape:window-x="1273"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -68,11 +68,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep04_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E04P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P08.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2646.3999"
        height="2644.2666"
-       width="2646.3999" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -155,7 +155,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3044">Pepper&amp;Carrot er helt gratis, open-source, og sponsoreret af læsere.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara88">For denne episode, tak til de 156 tilhængere:</flowPara></flowRoot>    <flowRoot
+         id="flowPara88">Denne episode kunne ikke være blevet til uden støtte fra de 156 tilhængere:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#a72f14;fill-opacity:1;stroke:none"
@@ -274,6 +274,6 @@
          sodipodi:role="line"
          id="tspan81"
          x="1719.2211"
-         y="1767.1737"></tspan></text>
+         y="1767.1737" /></text>
   </g>
 </svg>

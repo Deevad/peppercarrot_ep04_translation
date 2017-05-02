@@ -486,7 +486,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36045077"
-     inkscape:cx="1301.4849"
+     inkscape:cx="1252.9346"
      inkscape:cy="1567.1557"
      inkscape:window-x="1202"
      inkscape:window-y="0"
@@ -500,11 +500,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep04_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E04P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2646.3999"
        height="3736.5334"
-       width="2646.3999" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1134,5 +1134,5 @@
          id="flowPara2995-4-1-5-7"
          style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff">O Sole</flowPara><flowPara
          style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff"
-         id="flowPara4923">Miijaaavvv!</flowPara></flowRoot>  </g>
+         id="flowPara4923">Mjjaaavvv!</flowPara></flowRoot>  </g>
 </svg>
