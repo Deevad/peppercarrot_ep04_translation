@@ -37,6 +37,8 @@ License
 
 * French: David Revoy
 
+* Filipino: Paolo Abes
+
 * Finnish: Kari Lehto
 
 * German: Alexandra Jordan / Helmar Suschka

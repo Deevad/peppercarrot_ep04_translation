@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   width="2481"
+   height="649"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E04P04.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 434.38314,404.2095 c 0,0 451.18249,69.5973 758.37056,0 541.4046,-122.66198 820.7682,-86.39665 820.7682,-86.39665"
+       id="path13-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 434.38314,404.2095 c 0,0 451.18249,69.5973 758.37056,0 541.4046,-122.66198 820.7682,-86.39665 820.7682,-86.39665"
+       id="path13-7-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1083">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1073" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1075" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur1077" />
+      <feOffset
+         dx="1.5625"
+         dy="10.1"
+         result="offset"
+         id="feOffset1079" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite1081" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1181" />
+      <feFlood
+         id="feFlood1183"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite1185"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur1187"
+         in="composite1"
+         stdDeviation="16.1"
+         result="blur" />
+      <feOffset
+         id="feOffset1189"
+         dx="1.6"
+         dy="15.8854"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite1191"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.41668284"
+     inkscape:cx="1076.9209"
+     inkscape:cy="313.78181"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <image
+     width="2481"
+     height="649"
+     xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E04P04.png"
+     id="image10"
+     x="0"
+     y="0"
+     sodipodi:absref="C:\Users\jamesmichael\Downloads\Compressed\peppercarrot_ep04_translation-master\peppercarrot_ep04_translation-master\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E04P04.png" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 434.38314,404.2095 c 174.14766,-77.79686 455.9833,84.34266 758.37056,0 534.7157,-149.14432 820.7682,-86.39665 820.7682,-86.39665"
+     id="path13"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;letter-spacing:0px;word-spacing:0px;fill:#494a40;fill-opacity:1;stroke:#ebede6;stroke-width:12.11214447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1083)"
+     id="text9-0"
+     x="-430.85419"
+     y="-157.9381"
+     transform="matrix(0.99380517,0,-0.49253536,0.98768662,235.41507,57.989816)"><textPath
+       xlink:href="#path13-7"
+       id="textPath15-0"
+       style="font-size:85.33333588px;fill:#494a40;fill-opacity:1;stroke:#ebede6;stroke-width:12.11214447;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#494a40;fill-opacity:1;stroke:#ebede6;stroke-width:12.11214447;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+   id="tspan18-6">MmeeaA</tspan>AaAo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#494a40;fill-opacity:1;stroke:#ebede6;stroke-width:12.11214447;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+   id="tspan20-5">oooOOo</tspan>OOWwwWW<tspan
+   style="font-size:106.66666412px;fill:#494a40;fill-opacity:1;stroke:#ebede6;stroke-width:12.11214447;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+   id="tspan868">W</tspan>!!!!<tspan
+   style="font-size:192px;fill:#494a40;fill-opacity:1;stroke:#ebede6;stroke-width:12.11214447;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+   id="tspan24-8"><tspan
+   style="font-size:135.47666043px;stroke:#ebede6;stroke-opacity:1;"
+   id="tspan911">!</tspan><tspan
+   style="font-size:151.62618611px;stroke:#ebede6;stroke-opacity:1;"
+   id="tspan913">!</tspan><tspan
+   style="font-size:165.08412419px;stroke:#ebede6;stroke-opacity:1;"
+   id="tspan915">!</tspan>!</tspan></textPath></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.83952713px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.90741158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="text9-0-6"
+     x="-743.71307"
+     y="-317.17886"
+     transform="matrix(1.0030926,0,-0.49713828,0.9969169,233.43137,53.352834)"><textPath
+       xlink:href="#path13-7-4"
+       id="textPath15-0-9"
+       style="font-size:84.54325104px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.90741158;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.54325104px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.90741158;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan18-6-7">MmeeaA</tspan>AaAo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.54325104px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.90741158;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan20-5-6">oooOOo</tspan>OOWwwWW<tspan
+   style="font-size:105.67905426px;fill:#000000;fill-opacity:1;stroke-width:9.90741158"
+   id="tspan868-0">W</tspan>!!!!<tspan
+   style="font-size:190.2223053px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.90741158;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan24-8-6"><tspan
+   style="font-size:134.22230763px;fill:#000000"
+   id="tspan905">!</tspan><tspan
+   style="font-size:150.2223079px;fill:#000000"
+   id="tspan907">!</tspan><tspan
+   style="font-size:163.55564148px;fill:#000000"
+   id="tspan909">!</tspan>!</tspan></textPath></text>
+</svg>
